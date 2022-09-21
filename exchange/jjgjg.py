@@ -1,5 +1,5 @@
 eurorate = 7.43
-krate = 0.02
+krate = 0.16
 mkrate = 0.5
 print('welcome to the bank of veksling')
 print('how many kroner would u like to veksle to eur?')
